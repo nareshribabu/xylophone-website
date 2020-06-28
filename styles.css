@@ -1,0 +1,97 @@
+body {
+  text-align: center;
+  background: #ffebd9;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Coming Soon', cursive;
+  font-size: 5rem;
+  margin: 30px 20px;
+}
+
+h3 {
+  text-align: center;
+  font-family: 'Coming Soon', cursive;
+  font-size: 2rem;
+}
+
+footer {
+  text-align: center;
+  font-family: 'Coming Soon', cursive;
+  font-size: 1.4rem;
+  margin-top: 50px;
+}
+
+.keys {
+  margin: 40px 20px;
+}
+
+.a {
+  background: #3e64ff;
+  width: 90px;
+  height: 210px;
+
+}
+
+.b {
+  background: #5c2a9d;
+  width: 90px;
+  height: 190px;
+}
+
+.c {
+  background: #fa1616;
+  width: 90px;
+  height: 310px;
+
+}
+
+.d {
+  background: #fa7d09;
+  width: 90px;
+  height: 290px;
+}
+
+.e {
+  background: #FFCC00;
+  width: 90px;
+  height: 270px;
+}
+
+.f {
+  background: #79d70f;
+  width: 90px;
+  height: 250px;
+}
+
+.g {
+  background: #81f5ff;
+  width: 90px;
+  height: 230px;
+
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.tile {
+  outline: none;
+  border: 5px solid black;
+  font-size: 5rem;
+  font-family: 'Coming Soon', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: black;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  text-align: center;
+  margin: 10px;
+}
+
+/* This website was created for learning purposes only.
+None of the sounds belong to me and are used for learning purposes.
+None of the images belong to me and are used for learning purposes.  */
